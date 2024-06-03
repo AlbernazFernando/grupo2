@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background:url(https://pngteam.com/images/cycling-png-2000x1786_074aef1c_transparent.png);
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-attachment:fixed;
+  background-size: cover;
+}
+
+section{
+margin-top: 80px;
+  position: center;
+display: flex;
+justify-content:center;
+background: rgb(162, 144, 144, 0.8);
+width: 1000px;
+margin-left: 250px;
+margin-right:250px;
+border-radius:7px;
+font-family:'Times New Roman';
+font-size:large;
+  text-align: justify;
+  border-radius: 32px;
+}
+
+
+}
+
+p{
+  justify-content: center;
+  margin-left:2px;
+  margin-right:2px;
+ text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+  justify-content:center;
+  margin-left:2px;
+  margin-right:2px;
+  padding-top: 30px;
+}
+h4{
+ justify-content:center;
+  margin-left:2px;
+  margin-right:2px;
+
+}
+table{
+  text-justify: center;
+  justify-items:center;
+ padding: 40px 40px 40px 40px;
+ margin-top:0px;
+}
+p{
+  padding-left: 50px;
+  padding-right: 50px;
+  
+}
+td{
+  text-align:center;
+  padding:10px 250px 10px 250px;
+  justify-content:center;
+}
+table{
+  width: 500px;
+}
+p.a1{
+  margin-left:1px;
+  margin-right:1px;
+  text-align: justify;
+}
+td.a1{
+  justify-content:center;
+}
+img{
+  border-radius: 32px;
+}
+
